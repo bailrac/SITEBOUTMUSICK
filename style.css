@@ -1,0 +1,71 @@
+body {
+	background-color: #8470FF;
+	font-family: Bell MT;
+	color: #fdd3e2;
+	}
+	
+	.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+#navigation {
+padding: 0;
+margin:0;
+}
+
+#navigation li {
+	display: inline;
+	float:left;
+	}
+
+#navigation a, #navigation a:visited {
+	display: block;
+	width: 150px;
+	border:1px solid #fdd3e2;
+	font-size:0.8em;
+	text-align: center;
+	text-decoration: none;
+	}
+	
+#pic1 img {
+	box-shadow: 8px 8px 10px #CCFFFF
+}
+	<div id ="pic1">
+		<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjlyKbQxY7LAhWGbz4KHcSSAesQjRwIBw&url=http%3A%2F%2Fwww.amoeba.com%2Fblog%2F2016%2F02%2Famoeba-music%2Fthe-1975-listening-party-early-sale-at-amoeba-hollywood-february-25.html&bvm=bv.114733917,d.eWE&psig=AFQjCNHxjKt5p0xsVcoBJA4JldJ_CypKlQ&ust=1456339514815119" style="width: 30%>
+	</div>
+<br>
+<br>
+	<div id ="pic2">
+	<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwi5gYnfxo7LAhVIdD4KHXo0COsQjRwIBw&url=http%3A%2F%2Fwww.gigwise.com%2Fphotos%2F105028%2Fbest-new-vinyl-2016---bowie-savages-1975-elton-john-megadeth&psig=AFQjCNE8VX4RAq4HaK0cUS5nZaAcAn405g&ust=1456339538632069" style="width: 30%">
+	</div>
+<br>
+<br>
+	<div id ="pic3">
+	<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjm9IrrxY7LAhXD2T4KHWknCugQjRwIBw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQkubQCI4Fxo&psig=AFQjCNE6pcEcBowuseycQKt2GXcQuMGPiw&ust=1456339566775525" style="width: 30%">
+	</div>
+<br>
+<br>
+	<div id ="pic4">
+	<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjlrvD5xY7LAhXHFT4KHX9HCHoQjRwIBw&url=http%3A%2F%2Fwww.urbanoutfitters.com%2Furban%2Fcatalog%2Fcategory.jsp%3Fid%3DA_MUSIC_TURNTABLE&psig=AFQjCNGJ_Vl2Jr7Gmoh1fuloYykm7NTYvQ&ust=1456339602635883" style="width: 30%">
+	</div>
+<br>
+<br>
+	<div id ="pic5">
+	<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiBu_-Jxo7LAhUDbz4KHTUfAugQjRwIBw&url=http%3A%2F%2Fwww.target.com%2Fp%2Fthe-1975-i-like-it-when-you-sleep-for-you-are-so-beautiful-yet-so-unaware-of-it-target-exclusive-autographed-edition%2F-%2FA-50634864&psig=AFQjCNGWNOAqwpNZwzbnLu0tIdLV_r5k4A&ust=1456339626305064" style="width: 30%">
+	</div>
+<br>
+<br>
